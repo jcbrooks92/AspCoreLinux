@@ -15,7 +15,7 @@ exitWithMessageOnError () {
     exit 1
   fi
 }
-
+#dummy edit
 # Prerequisites
 # -------------
 
